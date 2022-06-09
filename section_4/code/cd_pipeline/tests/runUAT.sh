@@ -2,7 +2,8 @@
 
 # set variables
 hostname='172.17.0.3'
-port=$1
+#port=$1
+port=5000
 
 # wait for the app to start
 sleep 5 
